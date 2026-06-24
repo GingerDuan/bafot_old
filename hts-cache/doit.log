@@ -1,0 +1,8 @@
+https://www.friends-of-tibet.org/ -O /Users/gingerbreadhouse/Desktop/friends-of-tibet-backup -r6 -%v -w -s0 -F "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+File generated automatically on Wed, 24 Jun 2026 03:01:19, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
