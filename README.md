@@ -19,9 +19,9 @@ Content is preserved as-is for historical reference and is no longer updated
 
 
 
-湾区西藏之友 — 旧版网站存档
+湾区图博之友 — 旧版网站存档
 
-本仓库保存的是湾区西藏之友(Bay Area Friends of Tibet, BAFoT)的旧版网站,为原 Drupal 站点于 2026 年 6 月抓取的完整静态镜像。
+本仓库保存的是湾区图博之友(Bay Area Friends of Tibet, BAFoT)的旧版网站,为原 Drupal 站点于 2026 年 6 月抓取的完整静态镜像。
 
 BAFoT 新版官网已正式上线:www.friends-of-tibet.org。
 
